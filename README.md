@@ -1,4 +1,4 @@
-# political-trends-analysis
+# Political trends analysis
 
 Analysis of political trends: collects comments from social networks (Facebook, YouTube) and processes them automatically through filtering, sentiment analysis, and classification to gauge public opinion around French political parties.
 
