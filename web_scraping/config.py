@@ -4,9 +4,9 @@ PASSWORD=''
 DATABASE='trend'
 
 API_VERSION = "v3"
-DEVELOPER_KEY = "AIzaSyDRMyTjsP3BOeyDrf1qfO4yBn7B-GZRLxs"
+DEVELOPER_KEY = ""
 
-SCRIPT_FILE_PATH="/home/maram/PFE/Analyse des tendances/web scraping/script.sh"
-FB_FILE_PATH="/home/maram/PFE/Analyse des tendances/web scraping/facebook.py"
-YT_FILE_PATH="/home/maram/PFE/Analyse des tendances/web scraping/youtube.py"
-CSV_FILE_PATH="/home/maram/PFE/Analyse des tendances/data.csv"
+SCRIPT_FILE_PATH="./web_scraping/script.sh"
+FB_FILE_PATH="./web_scraping/facebook.py"
+YT_FILE_PATH="./web_scraping/youtube.py"
+CSV_FILE_PATH="./data.csv"
